@@ -67,3 +67,13 @@
     margin-top: 20px;
 
 }
+
+.img-cauca {
+    background-image: url("../imagenes/CAUCA/CAUCA.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 500px;
+    margin-top: 20px;
+
+}
