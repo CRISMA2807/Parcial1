@@ -1,0 +1,49 @@
+.nav-space {
+    background-color: #eb4d4b;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+
+.options-bar {
+    margin-left: 50px;
+}
+
+.text-decoration {
+    text-decoration: none;
+    font-size: 2rem;
+    color: white;
+}
+
+.principal {
+    width: 80%;
+    margin: auto;
+}
+
+.img-principal {
+    background-image: url("../imagenes/PRINCIPAL/SUROCCIDENTE.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    height: 500px;
+    margin-top: 20px;
+
+}
+.text-principal {
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+    width: 60%;
+    font-size: 20px;
+}
+
+.footer-space {
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-space p {
+    font-size: 15px;
+
+}
